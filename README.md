@@ -28,8 +28,6 @@ the second page of the report include:
 
 ![image](https://github.com/islam-Abdulhameid/PowerBI-mock-project/assets/151693812/682a4efd-85fa-4912-b052-94f5e418c7a7)
 
-(in order for the visualisations to work the date on your computer has to be set to 3/3/2020
-this only happens because there is no data after that period, which will not happen on up to date data)
 
 
 
